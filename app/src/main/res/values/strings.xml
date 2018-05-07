@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AOPTest</string>
+    <string name="weChat">微信</string>
+    <string name="zhiFuBao">支付宝</string>
+    <string name="yinLian">银联</string>
+</resources>
